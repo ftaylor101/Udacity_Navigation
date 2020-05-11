@@ -1,0 +1,4 @@
+*.log
+**/__pycache__
+**/Banana_Windows_x86_64
+/.idea
